@@ -1,0 +1,126 @@
+
+@media (max-width: 768px){
+
+.bodyContainer{display: flex;
+flex-direction: column;}
+
+}
+
+@media (max-width: 480px){
+    
+    .headerBox2{display: flex;
+    flex-direction: column;
+font-size: .5em;}
+}
+
+
+
+
+
+.headerContainer{
+    border: solid 6px;
+    //border-color: #4682b4;
+    border-top-color: #4682b4;
+    border-left-color: #4682b4;
+    border-right-color: #4682b4;
+    background-color: #353839;
+    border-width: 100%;
+    height: 30vh;
+    display: flex;
+    
+    
+    
+    
+}
+
+.headerBox1{
+    border: solid 1px;
+    border-width: 20%;
+    height: 30vh;
+    width: 70vh;
+}
+
+.headerBox2{
+    padding-left: 20px;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 15vh;
+    margin-top: 10vh;
+
+}
+
+h2{
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 4vh;
+    margin-top: 3vh;
+}
+
+h4{
+    color: whitesmoke;
+}
+
+img{
+    width: 12%;
+    border-radius: 10%;
+    margin-left: 2%;
+    position: absolute;
+    top: 9%;
+    
+    
+
+}
+
+
+body{
+    background-color:#353839;
+}
+
+.bodyContainer{
+    border: solid #4682b4 6px;
+    width: 100%;
+    display: flex;
+
+}
+
+.empContainer{
+    color:#4682b4;
+    border: solid #4682b4 6px;
+    width: 60vh;
+    background-color: #353839;
+    height: 100vh;
+    padding-right: 10vh;
+    
+    
+    
+}
+
+ul{
+    color: white;
+    //position: absolute;
+    //top: 60vh;
+    //margin-left: 10vh;
+   
+    
+    
+
+    
+}
+
+.empHead{
+    position: absolute;
+    margin-left: 1vh;
+    
+    
+}
+
+.skillsSection{
+    //border: solid #4682b4;
+    width: 100%;
+    height: 100vh;
+    margin-right: 20vh;
+    
+}
